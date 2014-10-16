@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# ImagesSem
+#
+
+projectname: ImagesSem
+vendorid: com.sem.oct16
+mainmodule: com.sem.oct16.imagessem
